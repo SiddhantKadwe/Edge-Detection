@@ -9,6 +9,8 @@ First, in the catkin_ws/src/edge_detection_ros/ folder, decompress the robot.zip
 https://user-images.githubusercontent.com/65805235/226298516-70ba6a32-6701-4ae2-90c7-49d4b23ec774.mp4
 
 
+
+
 There were in general 5 problem statements whose solutions are described below:
 
 ## Problem 1
