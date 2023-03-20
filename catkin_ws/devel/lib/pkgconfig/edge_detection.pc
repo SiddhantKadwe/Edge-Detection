@@ -1,0 +1,8 @@
+prefix=/home/ros/Neura/Edge-Detection/catkin_ws/devel
+
+Name: edge_detection
+Description: Description of edge_detection
+Version: 0.0.0
+Cflags: -I/home/ros/Neura/Edge-Detection/catkin_ws/devel/include -I/home/ros/Neura/Edge-Detection/catkin_ws/src/edge_detection_ros/edge_detection/include
+Libs: -L${prefix}/lib -ledge_detection
+Requires: geometry_msgs std_msgs sensor_msgs

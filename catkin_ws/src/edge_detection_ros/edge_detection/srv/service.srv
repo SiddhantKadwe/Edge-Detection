@@ -1,0 +1,5 @@
+# Service request message for edge detection
+sensor_msgs/Image input_image
+---
+# Service response message for edge detection
+sensor_msgs/Image edges_image  # Image with edges superimposed on the original image
