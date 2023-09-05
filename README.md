@@ -1,6 +1,6 @@
 # ROS-Edge-Detection
 
-The following tasks were completed as part of Neura Robotics interview on Edge Detection using ROS. The goal is to detect edges of a checkboard and highlight them with a green line.
+The goal is to detect edges of a checkboard and highlight them with a green line.
 
 First, in the catkin_ws/src/edge_detection_ros/ folder, decompress the robot.zip package. A video of one run of the robot with the point cloud is in the folder video/
 
